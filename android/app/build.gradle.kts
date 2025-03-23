@@ -44,5 +44,5 @@ flutter {
 }
 
 dependencies {
-    implementation("com.github.User:Repo:master-SNAPSHOT")
+    implementation("com.github.abdelsatar777:todo-app:v1.0.0")
 }
