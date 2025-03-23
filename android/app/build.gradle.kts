@@ -43,3 +43,6 @@ flutter {
     source = "../.."
 }
 
+dependencies {
+    implementation("com.github.jitpack:maven-simple:1.2")
+}
