@@ -43,6 +43,3 @@ flutter {
     source = "../.."
 }
 
-dependencies {
-    implementation("com.github.abdelsatar777:todo-app:v1.0.0")
-}

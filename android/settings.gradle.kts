@@ -25,7 +25,9 @@ dependencyResolutionManagement {
         maven { url = uri("https://storage.googleapis.com/download.flutter.io") }
     }
 }
-
+dependencies {
+    implementation("com.github.abdelsatar777:todo-app:v1.0.0")
+}
 
 plugins {
     id("dev.flutter.flutter-plugin-loader") version "1.0.0"
